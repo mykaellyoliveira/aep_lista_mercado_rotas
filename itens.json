@@ -1,0 +1,62 @@
+[
+  {
+    "name": "salgadinho",
+    "category": "Derivados",
+    "price": 12,
+    "image": "./uploads/3cc34541-91bb-44ee-895c-4dbf50ec1ddf.jpg"
+  },
+  {
+    "name": "ovo ",
+    "category": "Derivados",
+    "price": 12,
+    "image": "./uploads/43a4bdd1-b950-4063-b106-0e17ef7c9827.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Bebidas",
+    "price": 12,
+    "image": "./uploads/814bdd09-4c98-43ab-97a2-8db7673bc5f1.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Bebidas",
+    "price": 12,
+    "image": "./uploads/59f268e3-efc1-4658-b564-d9f6df873556.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Bebidas",
+    "price": 12,
+    "image": "./uploads/7316a5ff-b134-46fd-b89f-1631d9ff2841.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Bebidas",
+    "price": 12,
+    "image": "./uploads/d22e1bb0-70db-4141-85ce-c600fe779885.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Bebidas",
+    "price": 3,
+    "image": "./uploads/13dd81d8-a3be-4ab5-beba-3ddb9386c48a.jpg"
+  },
+  {
+    "name": "Ovo de pascoa",
+    "category": "Doces",
+    "price": 80.5,
+    "image": "./uploads/0d9ca6b5-4097-4404-b30a-cba649e1570b.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Derivados",
+    "price": 45,
+    "image": "./uploads/c659a5e8-817c-4966-81cd-a8d8ab632bc5.jpg"
+  },
+  {
+    "name": "salgadinho",
+    "category": "Derivados",
+    "price": 15,
+    "image": "./uploads/52814453-6d58-4afd-8c14-d8b857e71916.jpg"
+  }
+]
